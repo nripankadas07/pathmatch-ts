@@ -1,0 +1,7 @@
+node_modules/
+dist/
+coverage/
+.jest-cache/
+*.tsbuildinfo
+.DS_Store
+.env
