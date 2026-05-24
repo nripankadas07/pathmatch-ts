@@ -19,7 +19,7 @@ all backed by anchored regular expressions so matching is just
 ## Install
 
 ```bash
-npm install pathmatch-ts
+npm install && npm run build
 ```
 
 ## Usage
